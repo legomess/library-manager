@@ -1,6 +1,6 @@
 package library.dao;
 
-import library.DatabaseConnection;
+import library.service.DatabaseConnection;
 import library.model.Book;
 
 import java.sql.*;
